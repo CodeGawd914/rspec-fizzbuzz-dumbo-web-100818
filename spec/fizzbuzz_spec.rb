@@ -1,5 +1,7 @@
 require_relative './spec_helper.rb'
-require_relative' here. Check README.md for instructions and an explanation! 
+require_relative 'spec/fizzbuzz_spec.rb'
+
+
 
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
